@@ -1,5 +1,4 @@
-```markdown
-#Leveraged ETF Backtesting & Monte Carlo Simulation
+# 📈 Leveraged ETF Backtesting & Monte Carlo Simulation
 
 ## Overview
 This project explores the long-term performance and risk of **leveraged ETFs** (TQQQ) compared to their unleveraged counterpart (QQQ).  
@@ -98,4 +97,3 @@ Exploring the intersection of data analytics, investing, and long-term wealth bu
 🔗 [LinkedIn](https://www.linkedin.com/in/timothy-chowles)
 
 ---
-```
