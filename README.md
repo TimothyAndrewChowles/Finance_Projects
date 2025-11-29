@@ -112,7 +112,7 @@ This allows for direct comparison of compounding, drawdowns, and recovery speeds
 Finance & Information Systems | Illinois State University  
 Exploring applied finance, investment analytics, and portfolio research  
 
-📧 timothy.chowles@siemens.com  
+📧 timothy.chowles@outlook.com
 🔗 [LinkedIn](https://www.linkedin.com/in/timothy-chowles)
 
 ---
